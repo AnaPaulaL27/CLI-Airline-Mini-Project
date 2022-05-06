@@ -1,8 +1,4 @@
 
-# Mini-Project: Project team members
-Team members: Ana Paula Lima, Kim and Sujan
-
-
 # Mini-Project: Building a Command Line Interface
 
 Although a lot of the applications we use day-to-day have user interfaces with buttons to click and lots of graphical information, there are still a huge number of apps in existence which are entirely text-based. Applications such as these are used through a **command line interface**, or **CLI**. With the tools at our disposal now we can build Java apps and interact with them using a CLI
@@ -10,7 +6,7 @@ Although a lot of the applications we use day-to-day have user interfaces with b
 
 ## MVP
 
-Your group is going to develop an app to manage flight bookings. The user will be able to carry out the following actions using a CLI:
+ Develop an app to manage flight bookings. The user will be able to carry out the following actions using a CLI:
 
 - Add a new flight
 - Display all available flights
@@ -20,7 +16,7 @@ Your group is going to develop an app to manage flight bookings. The user will b
 
 A passenger needs to have a name, contact information and a unique identifier (id). A flight needs to have a destination, an id and a collection of passengers.
 
-Before you start coding you should spend some time discussing the structure of your code, considering which methods you need to implement and drawing some class diagrams. We also expect to see tests where appropriate for the logic.
+Before you start coding you should spend some time on the structure of your code, considering which methods you need to implement and drawing some class diagrams. We also expect to see tests where appropriate for the logic.
 
 
 ## Extensions
@@ -32,4 +28,4 @@ Before you start coding you should spend some time discussing the structure of y
 
 ## Presentation
 
-At the end of the day each group will give a short presentation of their work and demo their app. Each group will have **7 minutes** to give a demo and talk about any interesting and/or challenging bits of code. Every member of the group needs to contribute, and there will be time for questions after each demo.
+At the end of the day give a short presentation of the work/ demo the app.
