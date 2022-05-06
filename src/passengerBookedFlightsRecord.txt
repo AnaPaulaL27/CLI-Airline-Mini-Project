@@ -1,0 +1,32 @@
+Flight  Details
+---Flight ID---|---Destination---
+<<<<<<< HEAD
+    YZNRZVA          London
+Passenger Details
+--Passenger ID--|---Name--- 
+-----------------------------------------
+Flight  Details
+---Flight ID---|---Destination---
+    HTCXQDM          London
+Passenger Details
+--Passenger ID--|---Name--- 
+    01ZSHK1          kim
+-----------------------------------------
+Flight  Details
+---Flight ID---|---Destination---
+    VAJQIBB          London
+Passenger Details
+--Passenger ID--|---Name--- 
+-----------------------------------------
+Flight  Details
+---Flight ID---|---Destination---
+    KG97DOW          Manchester
+Passenger Details
+--Passenger ID--|---Name--- 
+=======
+    KTTFNMJ          London
+Passenger Details
+--Passenger ID--|---Name--- 
+    VGVE3NI          Sujan
+>>>>>>> 2e671e0ecca59ad7f0ad36b1c35ffcc2a6c9bbb7
+-----------------------------------------
