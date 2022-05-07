@@ -1,7 +1,7 @@
 
 
 # Mini-Project: Project team members
-Team members: Ana Paula Lima, Kim and Sujan
+Team members: Ana Paula, Kim and Sujan
 
 
 # Mini-Project: Building a Command Line Interface
