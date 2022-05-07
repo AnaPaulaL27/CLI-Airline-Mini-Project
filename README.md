@@ -1,9 +1,3 @@
-
-
-# Mini-Project: Project team members
-Team members: Ana Paula, Kim and Sujan
-
-
 # Mini-Project: Project status:
 
 Completed MVP and Extensions 
