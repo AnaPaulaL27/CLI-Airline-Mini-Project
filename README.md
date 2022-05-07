@@ -4,6 +4,11 @@
 Team members: Ana Paula, Kim and Sujan
 
 
+# Mini-Project: Project status:
+
+Completed MVP and Extensions 
+
+
 # Mini-Project: Building a Command Line Interface
 
 Although a lot of the applications we use day-to-day have user interfaces with buttons to click and lots of graphical information, there are still a huge number of apps in existence which are entirely text-based. Applications such as these are used through a **command line interface**, or **CLI**. With the tools at our disposal now we can build Java apps and interact with them using a CLI
