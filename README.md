@@ -3,7 +3,7 @@
 Completed MVP and Extensions 
 
 <p align="center">
-  <img src="https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2013/07/Car-dealership.-Picture-courtesy-of-speedfactorycars.com_.jpg?w=600&ssl=1"/>
+  <img src="https://thumbs.dreamstime.com/b/abstract-seascape-palm-tree-tropical-beach-background-abstract-seascape-palm-tree-tropical-beach-background-blur-bokeh-146142855.jpg"/>
 </p>
 # Mini-Project: Building a Command Line Interface
 
