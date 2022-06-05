@@ -2,6 +2,11 @@
 
 Completed MVP and Extensions 
 
+<p align="center">
+  <img src="https://www.findyello.com/wp/wp-content/uploads/2017/08/beach-day-1024x890.jpg
+"/>
+</p>
+
 
 # Mini-Project: Building a Command Line Interface
 
