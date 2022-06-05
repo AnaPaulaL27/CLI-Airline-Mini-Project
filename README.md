@@ -3,11 +3,8 @@
 Completed MVP and Extensions 
 
 <p align="center">
-  <img src="https://www.findyello.com/wp/wp-content/uploads/2017/08/beach-day-1024x890.jpg
-"/>
+  <img src="https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2013/07/Car-dealership.-Picture-courtesy-of-speedfactorycars.com_.jpg?w=600&ssl=1"/>
 </p>
-
-
 # Mini-Project: Building a Command Line Interface
 
 Although a lot of the applications we use day-to-day have user interfaces with buttons to click and lots of graphical information, there are still a huge number of apps in existence which are entirely text-based. Applications such as these are used through a **command line interface**, or **CLI**. With the tools at our disposal now we can build Java apps and interact with them using a CLI
