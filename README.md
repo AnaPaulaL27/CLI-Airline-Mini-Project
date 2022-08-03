@@ -13,7 +13,7 @@ Although a lot of the applications we use day-to-day have user interfaces with b
 
 ## MVP
 
-Your group is going to develop an app to manage flight bookings. The user will be able to carry out the following actions using a CLI:
+My group will develop an app to manage flight bookings. The user will be able to carry out the following actions using a CLI:
 
 - Add a new flight
 - Display all available flights
